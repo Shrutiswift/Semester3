@@ -6,7 +6,7 @@ public class Array {
         System.out.print("Enter a number: ");
         ArrayList <Integer> a = new ArrayList<>();
         a.add(n.nextInt());
-        System.out.println(a+"1");
+        System.out.println(a);
     }
 
 }
